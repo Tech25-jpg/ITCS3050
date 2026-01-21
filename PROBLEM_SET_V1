@@ -1,0 +1,25 @@
+# PROBLEM SOLUTION 1
+def classify_age(age):  #Defining the function and taking the age parameter
+    if age < 18:        #return child if age is less than 18
+        return "child"
+    else:               #return adult if age is 18 or more
+        return "adult"
+
+# PROBLEM SOLUTION 2
+def todays_mood():
+    if mood == "happy":
+        print("Today's mood: 😊")
+    elif mood == "tired":
+        print("Today's mood: 🥱")
+    else:
+        print("Today's mood: 😐")
+
+# PROBLEM SOLUTION 3 (AND KNUCKLES)
+
+def print_menu(menu):
+    if menu == "Pizza":
+        print("Lunch today is: 🍕")
+    elif menu == "Salad":
+        print("Lunch today is: 🥗")
+    else:
+        print("Lunch today is: 🍽️")
