@@ -1,4 +1,4 @@
-# GROUP MEMBERS - (Gunturi Harini Bindu,) (Nash, Christopher), (Teah, Kevin)
+# GROUP MEMBERS CODE PATH - (Gunturi Harini Bindu,) (Nash, Christopher), (Teah, Kevin)
 # PROBLEM SET 1 - ALL IN
 def all_in(a, b):
     for i in a:
